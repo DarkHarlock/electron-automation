@@ -1,0 +1,30 @@
+{
+  "name": "electron-automation",
+  "version": "1.0.0",
+  "description": "Electron automation",
+  "main": "dist/index.js",
+  "scripts": {
+    "install": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkHarlock/electron-automation.git"
+  },
+  "author": "Bruno 'DarkHarlock' Sirianni",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.8.2",
+    "typescript": "^2.7.2"
+  },
+  "keywords": [
+    "electron",
+    "automation",
+    "reload",
+    "livereload",
+    "live",
+    "auto-reload",
+    "node",
+    "gulp"
+  ]
+}
